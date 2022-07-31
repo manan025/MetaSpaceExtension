@@ -1,0 +1,12 @@
+{
+  "name": "MetaSpace",
+  "version": "1.0.0",
+  "description": "MetaSpace Extension",
+  "icon": "icon.png",
+  "manifest_version": 3,
+  "author": "Manan",
+  "action":{
+    "default_popup": "index.html",
+    "default_title": "Metaspace dashboard"
+  }
+}
