@@ -2,7 +2,7 @@
   "name": "MetaSpace",
   "version": "1.0.0",
   "description": "MetaSpace Extension",
-  "icon": "icon.png",
+  "icon": "logo.png",
   "manifest_version": 3,
   "author": "Manan",
   "action":{
